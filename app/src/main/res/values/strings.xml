@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Adlibs Deluxe</string>
+    <string name="title_activity_stories">Stories</string>
+    <string name="weclome">Welcome to BC adlibs</string>
+    <string name="info">So many words, so many choices. Perhaps it\'s a lovely story or a blank tradegy. Anyway is sure to please the senses.</string>
+    <string name="group_mode">Group Mode</string>
+    <string name="single_player">Single player mode</string>
+    <string name="single_descript">In single player mode the story is not shown until all parts of speech have been entered.</string>
+    <string name="group_descript">In group mode, the story is shown to the user</string>
+</resources>
